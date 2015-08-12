@@ -7,6 +7,8 @@
 #301 Braddock Rd    Frostburg MD 215325
 
 #################################################### Imports ###############################################################
+# This utility file must be within the same local scope of the main module
+############################################################################################################################
 import os
 import sys
 import osgeo.ogr as ogr
